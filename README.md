@@ -16,13 +16,7 @@ A simple calculator application for basic arithmetic operations.
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-
-## Screenshots
-
-![Calculator Screenshot](screenshot.png)
+- Java
 
 ## Installation
 
