@@ -4,6 +4,7 @@ import java.awt.*;
 
 public class Logic extends JFrame {
 
+
     private JLabel labelOperand1;
     private JLabel labelOperand2;
     public JLabel labelOperator;
